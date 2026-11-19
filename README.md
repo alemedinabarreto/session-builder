@@ -21,3 +21,7 @@ A weekly workout planner for a mix of gym sessions and studio classes. It helps 
 - Data stays on the device where it's used. Export a backup to move it.
 - This is a personal planner, not medical or fitness advice.
 - Not affiliated with any studio or brand named in the app.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
